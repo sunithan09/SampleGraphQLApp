@@ -11,5 +11,5 @@ Running the app:
 1) Checkout the code 
 2) It is a SpringBoot app. If you are using IDE or STS you get the run option in the tool itself
 
-OR from the command prompt -->
+OR from the command prompt run below command -->
    mvn spring-boot:run
